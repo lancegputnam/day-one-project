@@ -1,0 +1,38 @@
+body{
+		background: white;
+}
+
+p	{
+	text-align: center
+}
+h1 {
+	text-align: center
+}
+ul	{
+	text-align: left
+}
+div {
+	border:solid gray;
+	border-width: 10px
+}
+.first {
+	color:black;
+}
+
+p.italic {font-style:italic;}
+p {font-size:20px;}
+
+h1 {
+	font-family: helvetica
+}
+p{
+	font-family: helvetica
+}
+ul{
+	font-family: helvetica
+}
+.nav {
+	width: 100%;
+	float: left;
+	background-color: white
+}
